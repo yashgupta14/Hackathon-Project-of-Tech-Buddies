@@ -119,25 +119,7 @@ body{
     height:100%;
     overflow-x:auto;
 }
-  header.topbar{
-      background:var(--secondary);
-      color:var(--pure);
-      font-family:"Raleway-semibold";
-      padding:0.75rem 0;
-  }
-  header.topbar .auth > div a{
-      color:var(--pure);
-      text-decoration: none;
-  }
-  header.topbar .icons a{
-    margin-right:0.6rem;
-  }
-  header.topbar .auth .divider{
-      padding:0 1rem;
-  }
-  header.topbar .auth > div img{
-      margin-right:0.35rem;
-  }
+
   .flex{
     display:flex;
   }
